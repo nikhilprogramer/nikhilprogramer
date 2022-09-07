@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Nikhil Sharma
+- 👀 I’m interested in coding...
+- 🌱 I’m currently learning  many new things like Core Java,HTML ,CSS<MY SQL.....
+- 📫 you can reach me by email that is nikhilsharmasuper7@gmail.com...
+
+<!---
+nikhilprogramer/nikhilprogramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
